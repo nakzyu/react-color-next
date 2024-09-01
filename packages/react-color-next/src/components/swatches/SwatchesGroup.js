@@ -1,6 +1,6 @@
+import map from 'lodash/map'
 import React from 'react'
 import reactCSS from 'reactcss'
-import map from 'lodash/map'
 
 import SwatchesColor from './SwatchesColor'
 

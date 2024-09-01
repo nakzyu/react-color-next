@@ -1,29 +1,43 @@
 {
   "name": "react-color-next",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "author": "nakzyu <nakzyu@gmail.com>",
   "license": "MIT",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "build": "swc src -d dist --ignore '**/*.d.ts' && find src -name '*.d.ts' -exec cp {} dist/{} \\;",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "reactcss": "^1.2.0",
+    "lodash": "^4.17.15",
+    "lodash-es": "^4.17.15",
+    "material-colors": "^1.2.1",
+    "@icons/material": "^0.2.4",
+    "prop-types": "^15.5.10",
+    "tinycolor2": "^1.4.1"
   },
   "devDependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
     "@eslint/js": "^9.9.0",
+    "@swc/cli": "^0.3.12",
+    "@swc/core": "^1.5.3",
+    "@swc/helpers": "^0.5.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react-swc": "^3.5.0",
     "eslint": "^9.9.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1"
+    "@types/reactcss": "^1.2.12"
   },
   "peerDependencies": {
     "react": "*",

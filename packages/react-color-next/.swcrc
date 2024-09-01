@@ -1,0 +1,23 @@
+{
+  "jsc": {
+    "target": "es2015",
+    "minify": {
+      "compress": true,
+      "mangle": true
+    },
+    "parser": {
+      "syntax": "ecmascript",
+      "jsx": true,
+      "dynamicImport": true
+    },
+    "transform": {
+      "react": {
+        "runtime": "automatic"
+      }
+    }
+  },
+  "module": {
+    "type": "es6",
+    "strict": true
+  }
+}
