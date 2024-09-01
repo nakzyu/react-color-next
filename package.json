@@ -1,0 +1,16 @@
+{
+  "name": "react-color-next-monorepo",
+  "private": true,
+  "repository": "https://github.com/nakzyu/react-color-next",
+  "license": "MIT",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@9.1.0",
+  "devDependencies": {
+    "turbo": "^2.1.1"
+  }
+}

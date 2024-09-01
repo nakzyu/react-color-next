@@ -1,0 +1,52 @@
+{
+  "name": "react-color-next",
+  "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
+  "version": "0.0.1",
+  "author": "nakzyu <nakzyu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.0.1",
+    "vite": "^5.4.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/nakzyu/react-color-next/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakzyu/react-color-next.git",
+    "directory": "packages/react-color-next"
+  },
+  "keywords": [
+    "react",
+    "color picker",
+    "react-component",
+    "colorpicker",
+    "picker",
+    "sketch",
+    "chrome",
+    "photoshop",
+    "material design",
+    "popup"
+  ]
+}

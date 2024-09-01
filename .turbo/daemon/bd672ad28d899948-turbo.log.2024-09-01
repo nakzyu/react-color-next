@@ -1,0 +1,82 @@
+2024-09-01T02:49:29.668001Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: io error: No such file or directory (os error 2)
+2024-09-01T02:49:29.770315Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cache"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2024-09-01T02:49:29.770329Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:49:47.068851Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/_tmp_76314_e7c20ec4d65f521539cf22b700b46573"), AnchoredSystemPathBuf("packages/react-color-next")}
+2024-09-01T02:49:47.068861Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:49:51.874918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/node_modules")}
+2024-09-01T02:49:51.874937Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:49:53.668315Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/pnpm-lock.yaml"), AnchoredSystemPathBuf("packages/react-color-next/pnpm-lock.yaml.528295079")}
+2024-09-01T02:49:53.668325Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:49:59.068510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/node_modules")}
+2024-09-01T02:49:59.068525Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:50:46.865069Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:50:46.865079Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:50:46.865756Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: io error: No such file or directory (os error 2)
+2024-09-01T02:50:49.465290Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:50:49.465302Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:50:49.466207Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: io error: No such file or directory (os error 2)
+2024-09-01T02:50:53.365003Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:50:53.365013Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:50:53.365738Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: io error: No such file or directory (os error 2)
+2024-09-01T02:51:04.764577Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:51:04.764588Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:51:04.765513Z  WARN build:resolve_lockfile: turborepo_repository::package_graph::builder: Issues occurred when constructing package graph. Turbo will function, but some features may not be available: could not resolve workspaces: io error: No such file or directory (os error 2)
+2024-09-01T02:51:07.664003Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_76620_32b4eb95874048bc95404218a3cc5176")}
+2024-09-01T02:51:07.664025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:08.164528Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2024-09-01T02:51:08.164538Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:09.164303Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.4232973820"), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2024-09-01T02:51:09.164313Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:14.764313Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/tsconfig.node.json")}
+2024-09-01T02:51:14.764325Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:18.863916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/vite.config.ts")}
+2024-09-01T02:51:18.863925Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:22.763474Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/vite.config.ts")}
+2024-09-01T02:51:22.763496Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:23.463046Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/vite.config.ts")}
+2024-09-01T02:51:23.463057Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:24.163386Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/vite.config.ts")}
+2024-09-01T02:51:24.163414Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:51:35.362925Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2024-09-01T02:51:35.362954Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:51:38.762803Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:51:38.762817Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:53:03.056785Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_76838_2598b482ad3a940ef837d518f4c3d1d6"), AnchoredSystemPathBuf("")}
+2024-09-01T02:53:03.056795Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:53:13.356293Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/package.json")}
+2024-09-01T02:53:13.356308Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:53:27.555358Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/package.json")}
+2024-09-01T02:53:27.555368Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:54:14.452701Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_77083_413dc5ef1265babbc606d76df50fe225")}
+2024-09-01T02:54:14.452721Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:54:32.951640Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2024-09-01T02:54:32.951650Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:54:54.250441Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-workspace.yaml")}
+2024-09-01T02:54:54.250464Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:54:57.750494Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-09-01T02:54:57.750502Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2024-09-01T02:54:57.753965Z  WARN build:build_inner: turborepo_repository::package_graph::builder: Unable to calculate transitive closures: Workspace 'packages/react-color-next' not found in lockfile
+2024-09-01T02:54:59.550879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_77174_441695c537f3a7bc66094737e455d1c6"), AnchoredSystemPathBuf("")}
+2024-09-01T02:54:59.550891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:55:03.151013Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/node_modules")}
+2024-09-01T02:55:03.151024Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:04.149109Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.2808003123")}
+2024-09-01T02:55:04.149118Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-09-01T02:55:22.849376Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/tsconfig.node.json")}
+2024-09-01T02:55:22.849386Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:22.849432Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-01T02:55:25.049348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/tsconfig.node.json")}
+2024-09-01T02:55:25.049358Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:25.049428Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-01T02:55:26.048745Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/tsconfig.json")}
+2024-09-01T02:55:26.048755Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:26.048798Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-01T02:55:26.948608Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/tsconfig.app.json")}
+2024-09-01T02:55:26.948620Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:26.948667Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-09-01T02:55:28.049025Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/pnpm-lock.yaml")}
+2024-09-01T02:55:28.049035Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:32.647901Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/react-color-next/pnpm-lock.yaml")}
+2024-09-01T02:55:32.647911Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("react-color-next"), path: AnchoredSystemPathBuf("packages/react-color-next") }}))
+2024-09-01T02:55:34.148720Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_77371_1635eee689f2e2cf16af7999cd203622"), AnchoredSystemPathBuf("")}
+2024-09-01T02:55:34.148729Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
